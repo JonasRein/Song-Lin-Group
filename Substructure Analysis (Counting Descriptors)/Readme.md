@@ -1,3 +1,2 @@
-### NBOanalysis.py 
-generates NBO descriptors for any connectivity of interest form all .log files (Gaussian output files) in the directory (example: Azidobocphenylalanine.log). The connectivity of interest (here Azide with C, N1, N2, N3) is detailed in a Excel table with the atom numbers associated with each atom (columns) in a given functional group for each molecule (rows) (example: Atom Labels.xlsx). The output is a table with every bonding, anti-bonding and non-bonding orbital localized between the specified atoms (example: NBO analysis.xlsx). 
-For expanding the script to other functionalities, the columns should be modified. The directory needs to feature the same number of .log files (in the same order) as there are rows in the input table. A naming scheme starting with numbers e.g. 001_XXX.log is recommended. 
+### Counting Descriptors.py
+generates a dataset (example: Dataset with Counting Descriptors.xlsx) based on the presence of substructures in each molecule. The input molecules are specified as SMILES strings in an input Excel file (example: Dataset.xlsx). The substructures are defined in “Descriptor List.xlsx” as SMARTS queries.

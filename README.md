@@ -8,4 +8,4 @@ This work made use of four tools that were newly developed for this workflow. To
 _____________________________________________________________________________________________________________
 #### Please also check SigmanGroup (https://github.com/SigmanGroup) for more data-science tools for chemical applications
 #### Citation
-This code is released under the MIT license. Commercial use, Modification, Distribution and Private use are all permitted. The use of this workflow can be acknowledged with the following citation: 
+This code is released under the MIT license. Commercial use, Modification, Distribution and Private use are all permitted. The use of this workflow can be acknowledged with the following citation: Rein, J.; Meinhardt, J. M.; Hofstra Wahlman, J. L.; Sigman, M. S.; Lin, S. A Physical Organic Approach towards Statistical Modeling of Tetrazole and Azide Decomposition, 2022

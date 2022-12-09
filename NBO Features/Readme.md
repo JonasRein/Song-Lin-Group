@@ -6,3 +6,6 @@ The connectivity of interest (here Azide with C, N1, N2, N3) is detailed in a Ex
 The output is a table with every bonding, anti-bonding and non-bonding orbital localized between the specified atoms (example: NBO analysis.xlsx). 
 ![image](https://user-images.githubusercontent.com/119889793/206614388-a5cdf2e1-9b66-44c3-a217-d1601dab2b53.png)
 For expanding the script to other functionalities, the columns should be modified. The directory needs to feature the same number of .log files (in the same order) as there are rows in the input table. A naming scheme starting with numbers e.g. 001_XXX.log is recommended. 
+The data is extracted from the Natural Bond Orbitals (Summary) from the .log file:
+![image](https://user-images.githubusercontent.com/119889793/206614837-0a6d139e-2f2e-4abb-8fe5-b03dbfbc6527.png)
+
